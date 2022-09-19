@@ -7,5 +7,5 @@
   2.Run the bat file as administrator.<br />
   3.Wait a MIN for Installation.<br />
   
-## Buhaa !! Enjoy the your activated windows 10
+## Buhaa !! Enjoy the your activated windows 10.
 
